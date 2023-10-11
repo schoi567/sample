@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Base.Theme.Bd1" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="Theme.Bd1" parent="Base.Theme.Bd1" />
+
+</resources>
